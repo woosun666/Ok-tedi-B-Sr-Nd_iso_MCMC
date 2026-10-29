@@ -1,0 +1,6 @@
+# PLACEHOLDER end-members for the demo only -- NOT literature or Ok Tedi values.
+# Replace every number (and its _sd) with your chosen sources before use.
+name,B_ppm,B_ppm_sd,d11B,d11B_sd,Sr_ppm,Sr_ppm_sd,Sr87_86,Sr87_86_sd,Nd_ppm,Nd_ppm_sd,eNd,eNd_sd
+mantle_wedge,0.1,0.03,-7.0,1.5,10,3,0.70270,0.00020,0.7,0.2,9.0,1.0
+slab_fluid,30,10,10.0,4.0,100,40,0.70400,0.00050,0.1,0.03,5.0,2.0
+sediment_melt,50,15,-3.0,3.0,300,100,0.70800,0.00100,30,10,-6.0,2.0
